@@ -5,6 +5,7 @@ This repository contain all the projects related to Domain CORE JAVA that i did 
 **FIRST PROJECT**
 ^ It is all about BANKING INFORMATION SYSTEM. It include functions like:
 ^ a)User Registration  b)Account Management  c)Deposit and Withdrawal  d)Fund Transfer  e)Account Statements f)Password Protection  g)Error Handling  h)Persistence
+^ **LINKEDIN LINK: https://www.linkedin.com/posts/arjumand-afroze_internship-banking-java-activity-7163898103996133377-jDIN/**
 
 **SECOND PROJECT**
 ^ This project is about MUSIC PLAYER APPLICATION.
